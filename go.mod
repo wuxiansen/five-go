@@ -1,3 +1,3 @@
-module github.com/five-go/v1
+module github.com/wuxiansen/five-go
 
 go 1.17
